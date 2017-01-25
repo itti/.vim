@@ -23,8 +23,6 @@ Currently using version 2.2 of Pathogen
 * [Dockerfile](https://github.com/docker/docker/tree/master/contrib/syntax/vim)
 * [github.com/ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim.git)
 * [github.com/Raimondi/delimitMate](https://github.com/Raimondi/delimitMate.git)
-* [github.com/zchee/deoplete-go](https://github.com/zchee/deoplete-go.git)
-* [github.com/Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim.git)
 * [github.com/scrooloose/nerdtree](https://github.com/scrooloose/nerdtree.git)
 * [github.com/godlygeek/tabular](https://github.com/godlygeek/tabular.git)
 * [github.com/majutsushi/tagbar](https://github.com/majutsushi/tagbar.git)
